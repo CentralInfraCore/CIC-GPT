@@ -1,0 +1,5 @@
+services:
+  - name: vm-pool-1
+    config:
+      type: standard
+      replicas: 2
